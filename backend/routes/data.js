@@ -8,9 +8,9 @@ const router = express.Router();
 const jsonParser = bodyParser.json();
 
 
-router.get('/data', (req, res, next) => {
-  console.log(req.params.user);
-  Data.find({ user: 'khorton' })
+router.get('/data/:user', (req, res, next) => {
+  const { user } = req.params.user;
+  Data.find({ user: req.params.user })
     .then(data => {
       res.status(200).json({
         message: "Locations fetched success",

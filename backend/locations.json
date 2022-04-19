@@ -1,0 +1,28 @@
+{
+    "one": {
+      "coords": { "lat": 36.41312,  "lng": -93.8427   },
+      "icon": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+    },
+    "two":{
+      "coords": { "lat": 36.411409,  "lng": -93.836505  },
+      "icon": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+    },
+    "three":{
+      "coords": { "lat": 36.39457,  "lng": -93.74957 },
+      "icon": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+    },
+    "four":{
+      "coords": { "lat": 36.398583,  "lng": -93.746794  },
+      "icon": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+    },
+    "five":{
+      "coords": { "lat": 36.393906,  "lng": -93.728009  },
+      "icon": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+    },
+    "six":{
+      "coords": { "lat": 36.412951,  "lng": -93.748563  },
+      "icon": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+    }
+}
+
+

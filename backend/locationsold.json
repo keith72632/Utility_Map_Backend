@@ -1,0 +1,339 @@
+{
+  "Raw Water": {
+      "coords": {
+        "lat": 36.41312,
+        "lon": -93.84274
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/source.png"
+  },
+  "Water Plant": {
+      "coords": {
+        "lat": 36.41149,
+        "lon": -93.83977
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/plant1.png"
+  },
+  "East Plant": {
+      "coords": {
+        "lat": 36.411409,
+        "lon": -93.836505
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/plant1.png"
+  },
+  "Green Forest Tank": {
+      "coords": {
+        "lat": 36.317058,
+        "lon": -93.444005
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "West Pump Station": {
+      "coords": {
+        "lat": 36.39457,
+        "lon": -93.74957
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/meter.png"
+  },
+  "West Tank": {
+      "coords": {
+        "lat": 36.398583,
+        "lon": -93.746794
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "East Tank": {
+      "coords": {
+        "lat": 36.393906,
+        "lon": -93.728009
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "Pivot Rock Tank": {
+      "coords": {
+        "lat": 36.412951,
+        "lon": -93.748563
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "Passion Play Tank": {
+      "coords": {
+        "lat": 36.395117,
+        "lon": -93.709094
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "East Pump Station": {
+      "coords": {
+        "lat": 36.381885,
+        "lon": -93.74086
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/meter.png"
+  },
+  "CBD Saunders Heights Surge Tank": {
+      "coords": {
+        "lat": 36.381678,
+        "lon": -93.558228
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "Berryville City Tank": {
+      "coords": {
+        "lat": 36.379802,
+        "lon": -93.559894
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "Hailey Road Meter Station": {
+      "coords": {
+        "lat": 36.363252,
+        "lon": -93.561734
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/meter.png"
+  },
+  "Shady Grove Meter Station": {
+      "coords": {
+        "lat": 36.36583,
+        "lon": -93.643626
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/meter.png"
+  },
+  "Alpena Tank": {
+      "coords": {
+        "lat": 36.28937,
+        "lon": -93.294532
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "Bear Creek Meter Station": {
+      "coords": {
+        "lat": 36.287243,
+        "lon": -93.176226
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/meter.png"
+  },
+  "Green Berry": {
+      "coords": {
+        "lat": 36.341856,
+        "lon": -93.496815
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/meter.png"
+  },
+  "Pine Mountain": {
+      "coords": {
+        "lat": 36.287132,
+        "lon": -93.353342
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  },
+  "St. Francis Meter": {
+      "coords": {
+        "lat": 36.34114,
+        "lon": -93.49423
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/meter.png"
+  },
+  "Valve One": {
+      "coords": {
+        "lat": 36.40295,
+        "lon": -93.8291
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Two": {
+      "coords": {
+        "lat": 36.3979,
+        "lon": -93.761467
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Three": {
+      "coords": {
+        "lat": 36.3811,
+        "lon": -93.74035
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Four": {
+      "coords": {
+        "lat": 36.381183,
+        "lon": -93.74145
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Five": {
+      "coords": {
+        "lat": 36.35045,
+        "lon": -93.566817
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Six": {
+      "coords": {
+        "lat": 36.3422,
+        "lon": -93.49785
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Seven": {
+      "coords": {
+        "lat": 36.3422,
+        "lon": -93.49785
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Eight": {
+      "coords": {
+        "lat": 36.32305,
+        "lon": -93.440867
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Nine": {
+      "coords": {
+        "lat": 36.31065,
+        "lon": -93.400767
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Ten": {
+      "coords": {
+        "lat": 36.30875,
+        "lon": -93.395683
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Eleven": {
+      "coords": {
+        "lat": 36.297383,
+        "lon": -93.356267
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Twelve": {
+      "coords": {
+        "lat": 36.288167,
+        "lon": -93.29415
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Thirteen": {
+      "coords": {
+        "lat": 36.288233,
+        "lon": -93.293033
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Fourteen": {
+      "coords": {
+        "lat": 36.288133,
+        "lon": -93.235583
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Fifteen": {
+      "coords": {
+        "lat": 36.288133,
+        "lon": -93.235583
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Sixteen": {
+      "coords": {
+        "lat": 36.28695,
+        "lon": -93.175917
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Hydrant One": {
+      "coords": {
+        "lat": 36.4101,
+        "lon": -93.83661
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/hydrant.png"
+  },
+  "Hydrant Two": {
+      "coords": {
+        "lat": 36.40278,
+        "lon": -93.81206
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/hydrant.png",
+      "altitude": 1484
+  },
+  "Hydrant Three": {
+      "coords": {
+        "lat": 36.38133,
+        "lon": -93.74145
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/hydrant.png"
+  },
+  "Hydrant Four": {
+      "coords": {
+        "lat": 36.38071,
+        "lon": -93.74048
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/hydrant.png"
+  },
+  "Hydrant Five": {
+      "coords": {
+        "lat": 36.38126,
+        "lon": -93.7402
+      },
+    "icon": "/rest/v2/file-stores/public/DistributionOverview/img/hydrant.png"
+  },
+  "Hydrant Six": {
+      "coords": {
+        "lat": 36.35149,
+        "lon": -93.56803
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/hydrant.png"
+  },
+  "Hydrant Seven": {
+      "coords": {
+        "lat": 36.3507,
+        "lon": -93.58597
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/hydrant.png"
+  },
+  "Hydrant Eight": {
+      "coords": {
+        "lat": 36.39841,
+        "lon": -93.79011
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/hydrant.png"
+  },
+  "Valve Seventeen": {
+      "coords": {
+        "lat": 36.40144,
+        "lon": -93.8063
+        },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Valve Eighteen": {
+      "coords": {
+        "lat": 36.38216,
+        "lon": -93.7441
+      },
+"icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Pine Mountain Booster": {
+      "coords": {
+        "lat": 36.286932,
+        "lon": -93.352436
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Kings River Hydrant": {
+      "coords": {
+        "lat": 36.36602,
+        "lon": -93.65102
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/valve.png"
+  },
+  "Hailey Road Tank": {
+      "coords": {
+        "lat": 36.362702,
+        "lon": -93.549229
+      },
+      "icon": "/rest/v2/file-stores/public/DistributionOverview/img/tank.png"
+  }
+}

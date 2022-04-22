@@ -4,6 +4,8 @@ const passport = require('passport');
 const userRoutes = require('./routes/users');
 const locationRoutes = require('./routes/locations');
 const dataRoutes = require('./routes/data');
+const lineRoutes = require('./routes/line');
+
 // Express no longer has body parsing capabilities
 const bodyParser = require('body-parser');
 
@@ -38,6 +40,7 @@ app.use((req, res, next) => {
 app.use(userRoutes);
 app.use(locationRoutes);
 app.use(dataRoutes);
+app.use(lineRoutes);
 
 app.post("/api/users", jsonParser, (req, res, next) => {
   const user = new User({

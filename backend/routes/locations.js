@@ -14,6 +14,7 @@ router.get('/locations', (req, res, next) => {
         message: "Locations fetched success",
         locations: data
       });
+      console.log(`GET request at /locations for ${ req.params.user } from ${ req.ip }`);
       next();
     })
     .catch();

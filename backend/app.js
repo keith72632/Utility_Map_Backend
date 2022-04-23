@@ -2,7 +2,6 @@ const express = require('express');
 const mongoose = require('mongoose');
 const passport = require('passport');
 const userRoutes = require('./routes/users');
-const locationRoutes = require('./routes/locations');
 const dataRoutes = require('./routes/data');
 const lineRoutes = require('./routes/line');
 
@@ -38,21 +37,9 @@ app.use((req, res, next) => {
 
 // Routers
 app.use(userRoutes);
-app.use(locationRoutes);
 app.use(dataRoutes);
 app.use(lineRoutes);
 
-app.post("/api/users", jsonParser, (req, res, next) => {
-  const user = new User({
-    name: req.body.name,
-    password: req.body.password
-  });
-
-  user.save();
-
-  console.log(user.name);
-  res.status(201).json(user);
-})
 
 
 
